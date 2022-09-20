@@ -1,6 +1,6 @@
 package firstWeek;
 
-public class Switchdemo {
+public class switchdemo {
 
 	public static void main(String[] args) {
 		char grade = 'F';
