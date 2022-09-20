@@ -1,4 +1,4 @@
-package hw;
+package firstWeek;
 
 public class helloJava {
 
