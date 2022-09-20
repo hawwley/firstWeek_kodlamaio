@@ -1,6 +1,6 @@
 package hw;
 
-public class Main {
+public class helloJava {
 
 	public static void main(String[] args) {
 		
