@@ -1,6 +1,6 @@
 package firstWeek;
 
-public class datatypes {
+public class DataTypes {
 
 	public static void main(String[] args) {
 		//default olarak tam sayilar int, ondalikli sayilar double'dir.

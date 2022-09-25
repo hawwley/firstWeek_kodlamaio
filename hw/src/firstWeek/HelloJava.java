@@ -1,6 +1,6 @@
 package firstWeek;
 
-public class hellojava {
+public class HelloJava {
 
 	public static void main(String[] args) {
 		

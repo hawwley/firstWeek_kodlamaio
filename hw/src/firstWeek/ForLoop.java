@@ -1,6 +1,6 @@
 package firstWeek;
 
-public class forloop {
+public class ForLoop {
 
 	public static void main(String[] args) {
 		//For
